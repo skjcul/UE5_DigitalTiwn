@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MqttUtilities.cpp.obj": [
+			"MqttClientBase.cpp.obj",
+			"MqttUtilitiesBPL.cpp.obj",
+			"MqttUtilitiesModule.cpp.obj",
+			"MqttClient.cpp.obj",
+			"MqttClientImpl.cpp.obj",
+			"MqttRunnable.cpp.obj",
+			"MqttTask.cpp.obj",
+			"StringUtils.cpp.obj"
+		],
+		"Module.MqttUtilities.gen.cpp.obj": [
+			"MqttClient.gen.cpp.obj",
+			"MqttClientBase.gen.cpp.obj",
+			"MqttClientConfig.gen.cpp.obj",
+			"MqttClientInterface.gen.cpp.obj",
+			"MqttConnectionData.gen.cpp.obj",
+			"MqttMessage.gen.cpp.obj",
+			"MqttUtilities.init.gen.cpp.obj",
+			"MqttUtilitiesBPL.gen.cpp.obj"
+		]
+	}
+}
